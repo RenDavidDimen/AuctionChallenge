@@ -1,0 +1,44 @@
+[
+  {
+    "site": "houseofcheese.com",
+    "units": ["banner", "sidebar"],
+    "bids": [
+      {
+        "bidder": "AUCT",
+        "unit": "banner",
+        "bid": 35
+      },
+      {
+        "bidder": "BIDD",
+        "unit": "sidebar",
+        "bid": 60
+      },
+      {
+        "bidder": "AUCT",
+        "unit": "sidebar",
+        "bid": 55
+      }
+    ]
+  },
+  {
+    "site": "house.ca",
+    "units": ["popup", "sidebar"],
+    "bids": [
+      {
+        "bidder": "AUCT",
+        "unit": "popup",
+        "bid": 100
+      },
+      {
+        "bidder": "BIDD",
+        "unit": "sidebar",
+        "bid": 60
+      },
+      {
+        "bidder": "CHAR",
+        "unit": "sidebar",
+        "bid": 55
+      }
+    ]
+  }
+]
